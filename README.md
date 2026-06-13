@@ -128,12 +128,15 @@ Multi-role service management platform.
 
 ---
 
-# 🏆 GitHub Achievements
+## 📊 GitHub Overview
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dhruvil-Mavawala&theme=algolia&no-frame=true&margin-w=15"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvil-Mavawala&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvil-Mavawala&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 # 📊 GitHub Analytics
