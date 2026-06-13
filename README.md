@@ -1,97 +1,127 @@
-<h1 align="center">Hi 👋, I'm Dhruvil Mavawala</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 AI/ML Engineer | Android Developer | Problem Solver
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Dhruvil+Mavawala;AI+%26+Machine+Learning+Engineer;Computer+Vision+Developer;Android+Application+Developer;Building+Intelligent+Systems+for+Real+World+Problems" />
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Android+Application+Developer;Python+%7C+TensorFlow+%7C+PyTorch;Building+Real+World+AI+Solutions;Always+Learning+Something+New" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhruvil-Mavawala&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
-</p>
+</div>
 
 ---
 
-# 💫 About Me
+<div align="center">
 
-🎓 M.Sc Artificial Intelligence & Machine Learning Student
+# 🚀 DHRUVIL MAVAWALA
 
-📱 Mobile Application Developer
+### AI / ML Engineer • Computer Vision Developer • Android Developer
 
-🤖 Passionate about Machine Learning, Computer Vision and Deep Learning
+<img src="https://komarev.com/ghpvc/?username=Dhruvil-Mavawala&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
-🚀 Building AI-powered solutions that solve real-world problems
+</div>
 
-💡 Interested in:
+---
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Android Development
-- MLOps
-- Backend APIs
+## 🧠 About Me
 
-📍 Pune, Maharashtra, India
+```python
+class DhruvilMavawala:
+
+    def __init__(self):
+        self.role = "AI & Machine Learning Engineer"
+        self.location = "Pune, Maharashtra 🇮🇳"
+
+        self.skills = [
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "Android Development",
+            "Backend APIs"
+        ]
+
+        self.current_focus = [
+            "YOLO",
+            "PyTorch",
+            "TensorFlow",
+            "MLOps",
+            "Cloud Deployment"
+        ]
+
+    def life_goal(self):
+        return "Build AI products that solve real-world problems"
+
+me = DhruvilMavawala()
+print(me.life_goal())
+```
+
+### 🎯 Current Focus
+
+- 🤖 Building AI-powered applications
+- 👁️ Computer Vision & Object Detection
+- 📱 Android Application Development
+- 🚀 Full AI Deployment Pipelines
+- ☁️ Learning MLOps & Cloud Technologies
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/dhruvil-mavawala-27b8a52b9" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/dhruvil-mavawala-27b8a52b9">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:dhruvilmavawala4@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/Dhruvil-Mavawala">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
+
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 💻 Tech Arsenal
 
-### Programming Languages
+## Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,kotlin,javascript" />
 </p>
 
-### AI / Machine Learning
+## AI / Machine Learning
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+
 <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
 </p>
 
-### Web & Backend
+## Web & Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,flask" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,flask,laravel" />
 </p>
 
-### Mobile Development
+## Mobile Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,firebase" />
 </p>
 
-### Tools
+## Development Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -100,122 +130,164 @@
 
 ## 🏭 SteelSenseAI
 
-AI-based Steel Defect Detection System using:
+### AI-Based Steel Defect Detection System
 
-- YOLO
-- OpenCV
+**Tech Stack**
+
+- YOLOv8
 - PyTorch
+- OpenCV
 - Streamlit
 
-### Features
+### Highlights
 
 ✅ Real-time defect detection
 
-✅ Crack detection
+✅ Crack identification
 
-✅ Surface defect classification
+✅ Surface quality inspection
 
 ✅ Smart manufacturing support
 
 ---
 
-## 🌿 Plant Disease Detection System
+## 🌿 Plant Disease Detection
 
-Machine Learning-powered crop disease prediction system.
+### Deep Learning Crop Disease Prediction
 
-### Features
+**Tech Stack**
 
-✅ Image Classification
+- TensorFlow
+- PyTorch
+- Flask
+- OpenCV
 
-✅ TensorFlow & PyTorch
+### Highlights
 
-✅ Feature Extraction
+✅ Image classification
 
-✅ REST API Integration
+✅ Feature extraction
 
-✅ Real-Time Prediction
+✅ REST API deployment
+
+✅ Real-time prediction
 
 ---
 
 ## 🧺 Elite Cleaners Platform
 
-On-demand service platform with multiple user roles.
+### Multi-Role Service Platform
 
-### Features
+**Tech Stack**
 
-✅ Admin Dashboard
+- Laravel
+- Android
+- REST APIs
+- MySQL
+
+### Highlights
+
+✅ QR Workflows
 
 ✅ Payment Integration
 
-✅ QR Workflow
+✅ Admin Dashboard
 
-✅ REST APIs
-
-✅ Mobile App Integration
+✅ Multi-user Support
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhruvil-Mavawala&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvil-Mavawala&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dhruvil-Mavawala&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvil-Mavawala&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvil-Mavawala&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvil-Mavawala&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dhruvil-Mavawala&theme=algolia&no-frame=true&margin-w=15"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dhruvil-Mavawala&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvil-Mavawala&theme=tokyo-night"/>
-</p>
+
+</div>
 
 ---
 
-# 🌱 Currently Learning
+# 🎯 2026 Goals
 
-```python
-class DhruvilMavawala:
+- [ ] Publish 10+ AI/ML Projects
+- [ ] Master Deep Learning
+- [ ] Learn MLOps & Kubernetes
+- [ ] Contribute to Open Source
+- [ ] Build SaaS AI Product
+- [ ] Achieve 500+ GitHub Contributions
+- [ ] Land AI/ML Engineer Role
 
-    def __init__(self):
-        self.learning = [
-            "Deep Learning",
-            "Computer Vision",
-            "MLOps",
-            "Advanced Machine Learning",
-            "Cloud Deployment"
-        ]
+---
 
-    def future_goal(self):
-        return "Become an AI/ML Engineer and build impactful AI products"
+# 📚 Learning Roadmap
 
-me = DhruvilMavawala()
-print(me.future_goal())
+```text
+Machine Learning      ██████████ 100%
+Computer Vision       █████████░ 90%
+Deep Learning         ████████░░ 80%
+MLOps                 ████░░░░░░ 40%
+Cloud Deployment      ███░░░░░░░ 30%
+System Design         ███░░░░░░░ 30%
 ```
+
+---
+
+# 🧩 Developer Philosophy
+
+> "Technology becomes powerful when it solves real-world problems. My mission is to combine Artificial Intelligence and Software Engineering to create impactful solutions."
 
 ---
 
 # ⚡ Fun Fact
 
-> "I enjoy turning ideas into intelligent applications using AI and software engineering."
+```python
+while alive:
+    learn()
+    build()
+    improve()
+    repeat()
+```
 
 ---
 
-<h3 align="center">
-⭐ If you like my work, consider following me and starring my repositories!
-</h3>
+<div align="center">
+
+## 💼 Open To
+
+AI/ML Internships • Machine Learning Engineer Roles • Computer Vision Projects • Android Development Opportunities
+
+### ⭐ If you like my work, consider starring my repositories!
+
+</div>
