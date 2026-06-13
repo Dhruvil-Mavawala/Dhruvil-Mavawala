@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Dhruvil Mavawala Banner"/>
+  <img src="picture.png" width="100%" alt="Dhruvil Mavawala Banner"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Dhruvil Mavawala</h1>
